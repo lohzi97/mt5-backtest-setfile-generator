@@ -1,0 +1,1 @@
+A simple script to generate .set file based on ManualAdjustment.xlsx file.
